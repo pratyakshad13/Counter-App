@@ -38,12 +38,8 @@ Follow the steps below to run the Counter App locally:
    git clone https://github.com/pratyakshad13/Counter-App.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd counter-app
-   ```
 
-3. Open the `counter.html` file in your web browser.
+2. Open the `counter.html` file in your web browser.
 
 ## Usage
 
